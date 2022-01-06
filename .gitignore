@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!*.py
+
+!code/
+code/*
+!code/*.py
+
+
